@@ -5587,6 +5587,78 @@
       "quickSearch": 0,
       "searchable": 0,
       "type": 3
+    },
+    {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "filterable": 1,
+      "key": "ffzy",
+      "name": "⚡ 非凡资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "filterable": 1,
+      "key": "hongniu",
+      "name": "🐂 红牛",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "小苹果",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "decrypt": "0",
+        "host": "",
+        "pkg": "com.juechufsh.android.xpg1",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3"
+      },
+      "key": "干饭",
+      "name": "🍚┃干饭┃APP",
+      "type": 3,
+      "jar": "https://img2.tofaka.com/autoupload/f/eja2s/20261019/Fwil/0X0/123aaq.png;sha256;1d98615771170994b615fbbadc7e5b9fcef689b69dfaee1abcac571ffa8160f8"
+    },
+    {
+      "api": "csp_AppQi",
+      "ext": "http://103.217.190.91:5566|hagYExMdMkeWfemK",
+      "key": "光盘",
+      "name": "📀┃光盘┃APP",
+      "type": 3,
+      "jar": "https://img2.tofaka.com/autoupload/f/eja2s/20261019/Fwil/0X0/123aaq.png;sha256;1d98615771170994b615fbbadc7e5b9fcef689b69dfaee1abcac571ffa8160f8"
+    },
+    {
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "橘汁",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "decrypt": "1",
+        "host": "",
+        "pkg": "com.mxj.wylcjbxyx",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.4"
+      },
+      "key": "一碗",
+      "name": "🥣┃一碗┃APP",
+      "type": 3,
+      "jar": "https://img2.tofaka.com/autoupload/f/eja2s/20261019/Fwil/0X0/123aaq.png;sha256;1d98615771170994b615fbbadc7e5b9fcef689b69dfaee1abcac571ffa8160f8"
+    },
+    {
+      "api": "csp_AppYQK",
+      "filterable": 0,
+      "key": "一起",
+      "name": "👀┃一起┃APP",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://img2.tofaka.com/autoupload/f/eja2s/20261019/Fwil/0X0/123aaq.png;sha256;1d98615771170994b615fbbadc7e5b9fcef689b69dfaee1abcac571ffa8160f8"
     }
   ],
   "spider": "https://img2.tofaka.com/autoupload/f/eja2s/20261016/MmQe/0X0/PandaQ1016.png;sha256;b169ae61cf618e7637b0687f91e594796546dc2903a6c921eed7404bdfa33007",
